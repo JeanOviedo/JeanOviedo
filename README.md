@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://raw.githubusercontent.com/laravel/art/d5f5e725c27f877ed032225fe0b00afee9337d0f/logo-type/5%20svg/2%20CMYK/1%20Full%20Color/laravel-logotype-cmyk-red.svg)" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/laravel/art/d5f5e725c27f877ed032225fe0b00afee9337d0f/logo-type/5%20svg/2%20CMYK/1%20Full%20Color/laravel-logotype-cmyk-red.svg" alt="laravel" width="40" height="40"/>
 </a>
 
 <!-- Databases -->
